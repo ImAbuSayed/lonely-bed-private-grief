@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-bed-private-grief/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Lonely Bed Private Grief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-bed-private-grief/) |
+| **Get License** | [License this song: Lonely Bed Private Grief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-bed-private-grief/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4ce99e94fec4faf33a0f39c4f6a8db22577a5ef8c9d3ff6df5bcaa20b56c13a8` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
