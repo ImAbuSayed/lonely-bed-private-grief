@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-bed-private-grief/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lonely Bed Private Grief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-bed-private-grief/) |
+| **Get License** | [Commercial Licensing for Lonely Bed Private Grief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-bed-private-grief/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 5f9194400a9d12bf5effd727c7fa5866483414ee
+> I can feel your warmth still fading from these sheets
+> My lonely heart is skipping all its deepest beats
+> I am searching for your shadow in this quiet space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
